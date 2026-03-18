@@ -32,6 +32,15 @@ if (!fs.existsSync(generatedFilesDir)) {
     fs.mkdirSync(generatedFilesDir, { recursive: true });
 }
 
+// Serve Vite React frontend static files (must be before API routes)
+const clientDistPath = path.join(__dirname, '../client/dist');
+if (fs.existsSync(clientDistPath)) {
+    app.use(express.static(clientDistPath));
+    console.log('✅ Serving React frontend from client/dist');
+} else {
+    console.warn('⚠️  client/dist not found - run npm run build in client dir');
+}
+
 // API Keys Management
 const apiKeys = {
     groq: process.env.GROQ_KEYS ? process.env.GROQ_KEYS.split(',') : [],
@@ -191,10 +200,6 @@ const toStandaloneHtml = (html = '', prompt = '') => {
 };
 
 // Routes
-app.get('/', (req, res) => {
-    res.send('Kaya Agent Server is Running');
-});
-
 app.get('/health', (req, res) => {
     res.json({ status: 'ok', server: 'Kaya AI Backend' });
 });
@@ -1116,9 +1121,7 @@ app.post('/api/voice/transcribe', async (req, res) => {
 
 
 
-// Serve static frontend files if they exist (for Railway / Production)
-const clientDistPath = path.join(__dirname, '../client/dist');
-app.use(express.static(clientDistPath));
+// Catch-all: serve React app for all non-API routes (React Router support)
 app.get(/.*/, (req, res) => {
     const indexPath = path.join(clientDistPath, 'index.html');
     if (fs.existsSync(indexPath)) {
