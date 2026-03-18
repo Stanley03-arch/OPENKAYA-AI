@@ -1,0 +1,246 @@
+# Luo RAG Power Pack v2
+
+This pack is designed for high-recall retrieval in Dholuo and mixed Luo-English queries.
+
+## Identity and Language Facts
+- Dholuo is a Western Nilotic language.
+- Luo community values clear greetings, respect, and context.
+- Common forms:
+  - singular self: an
+  - second person: in
+  - third person: en
+  - plural first: wan
+  - plural second: un
+  - plural third: gin
+
+## Greeting Bank
+- Misawa?
+- Misawa ahinya.
+- Idhi nade?
+- Adhi maber.
+- In nadi?
+- An maber.
+- Oriti?
+- Oriti maber.
+- Oyaore.
+- Oyaore ahinya.
+- Erokamano.
+- Erokamano ahinya.
+- Onge gima.
+- Wanere bang'e.
+- Ber ahinya.
+
+## Short Conversational Moves
+- Inyalo konya?
+- Ee, anyalo konyi.
+- Ok awinjo maber.
+- Inyalo chiwo ranyisi?
+- Wakwayi, dwoka kendo maber.
+- Adwaro puonj mar Dholuo.
+- Anyalo loko weche e lugha machielo.
+
+## Everyday Luo Vocabulary
+- chiemo = food
+- pi = water
+- dala = home
+- tich = work
+- pesa = money
+- osiep = friend
+- nyinga = my name
+- nying'i = your name
+- puonj = teach
+- somo = study/read
+- rieko = knowledge
+- penjo = question
+- dwoko = answer
+- mondo = so that
+- nikech = because
+- ka = if/when
+- to = but/then
+- kendo = and/again
+
+## Time and Daily Use
+- kawuono = today
+- nyoro = yesterday
+- kiny = tomorrow
+- saa adi? = what time?
+- sani = now
+- ka chieng' = daytime
+- odhiambo = evening
+- otieno = night
+
+## Education Domain Terms
+- puonjruok = education
+- skul/sual = school
+- buk = book
+- tem = exam/test
+- somruok = reading process
+- puonjri = teacher guidance
+- nyiseche = children/learners
+- niwach = statement
+- weche = information/topics
+- weche puonj = instructional content
+
+## Technology Domain Terms
+- komputer = computer
+- simu = phone
+- intanet = internet
+- data = data
+- website = website
+- aplikasyon = application/app
+- password = password
+- akount = account
+- tekinoloji = technology
+- roboti rieko = AI assistant concept
+- yore mar online security = online safety practices
+
+## Health Domain Terms
+- ngima = health/life
+- tuoche = illnesses
+- yath = medicine
+- thieth = treatment
+- jathieth = doctor/health worker
+- osiptal = hospital
+- yamo = breath/air context
+- rem = body
+- chuny = heart/mind emotion
+
+## Business and Jobs
+- biashara = business/trade
+- chandruok = marketing/exposure
+- mudo = period/time range
+- jachwiny = entrepreneur mindset
+- gima idwaro = requirement
+- yudo tich = get a job
+- tich mar kompiuta = digital work
+- tich mar remote = remote work
+
+## Grammar Mini Rules
+- Negation often uses "ok":
+  - ok anyal = I cannot
+  - ok awinjo = I do not understand
+  - ok adwaro = I do not want
+- Polite requests:
+  - wakwayi + action
+- Clarification request:
+  - inyalo dwoka kendo?
+- Confirmation:
+  - ee = yes
+  - ooyo/ok = no
+
+## Luo-English Translation Seeds
+- Hello -> Misawa
+- Thank you -> Erokamano
+- Please -> Wakwayi
+- How are you? -> Idhi nade?
+- I am fine -> Adhi maber
+- I need help -> Adwaro kony
+- Can you explain? -> Inyalo nyisa?
+- I understand -> Awinjo
+- I do not understand -> Ok awinjo
+- What is your name? -> Nyingi ng'a?
+- My name is Kaya -> Nyinga en Kaya
+
+## Swahili-Luo Translation Seeds
+- Habari? -> Misawa?
+- Asante -> Erokamano
+- Tafadhali -> Wakwayi
+- Nisaidie -> Konya
+- Sawa -> Ber
+- Leo -> Kawuono
+- Jana -> Nyoro
+- Kesho -> Kiny
+- Rafiki -> Osiep
+- Kazi -> Tich
+
+## Common AI User Intents in Luo
+- Adwaro puonj mar coding.
+- Inyalo konyo gi assignment?
+- Nyisa yore mar yudo tich.
+- Lok ango ma "machine learning" e Luo?
+- Chweya report matin e Luo.
+- Ket weche ma e paragraph e bullet points.
+- Lok wechegi e English kata Swahili.
+- Dwoka penjoni maber gi ranyisi.
+
+## Luo Prompt Templates for Assistant
+- "Dwoka e Dholuo kata ka penjo en e English."
+- "Chiwo dwoko machiegni kod puonj ma yot."
+- "Kaw weche ma tek, inyis gi ranyisi."
+- "Ka idwaro, nyisa luoro gi yore mar gwedo."
+
+## High-Utility Q&A
+Q: Inyalo puonja Dholuo gi yore ma yot?
+A: Ee. Wabiro chako gi greetings, vocabulary, kendo sentence patterns, to wabiro meda gi grammar kod translation exercise.
+
+Q: Adwaro yudo tich mar teknoloji, atim nade?
+A: Chak gi basics mar komputer, internet safety, coding ma yot, to tim projects matin kendo ket e portfolio.
+
+Q: Ka ok awinjo dwoko, atim nade?
+A: Penj "wakwayi dwoka kendo gi yore ma yot" kata "chiwa ranyisi mar ngima mar pile."
+
+Q: Inyalo loko paragraph e Luo?
+A: Ee, anyalo. Chiw paragraph to alokone e Luo ma ng'ama nyalo winjo yot.
+
+Q: Inyalo konyo gi report mar skul?
+A: Ee. Anyalo yiko title, summary, sections maduong', bullet points, kendo conclusion.
+
+## Long-form Luo Knowledge Snippets
+- Luo storytelling often uses practical examples from home, school, market, farming, and community life.
+- Explanations are clearer when they move from simple statement -> example -> action step.
+- Polite teaching style:
+  1. Acknowledge user question.
+  2. Give direct answer.
+  3. Add short example.
+  4. Ask if user wants deeper detail.
+
+## Assistant Behavior Policy for Luo
+- If user writes in Luo, answer in Luo by default.
+- If user asks bilingual output, provide Luo first then requested language.
+- Keep technical words understandable; retain English term in brackets when needed.
+- Avoid random language switching.
+- Prefer culturally respectful and practical tone.
+
+## Multilingual Robustness Triggers
+- Mixed language example: "Misawa, explain AI ethics in simple English."
+  - Expected: primary English answer, acknowledge Luo greeting naturally.
+- Mixed language example: "Please lok wechegi e Luo kendo Swahili."
+  - Expected: Luo section + Swahili section.
+- Mixed language example: "Nango, can you summarize this?"
+  - Expected: respond in English unless user asks Luo explicitly.
+
+## Domain Specific Phrase Bank
+- Legal basics:
+  - ratiro = law/rule context
+  - chik = formal rules
+- Finance basics:
+  - pesa = money
+  - chenro = savings context
+  - dhero = debt/obligation context
+- Agriculture:
+  - puodho = farming
+  - cham = harvest context
+  - yath cham = crop treatment context
+
+## More Practical Sentence Patterns
+- Adwaro ng'eyo ang'o ma...
+- Inyalo nyisa hatua ka hatua?
+- Koro mondo atim nade?
+- Chiw dwoko e rieko ma yot.
+- Lok gini e luoro matin.
+- Miyo ranyisi mar ngima mar pile.
+- Dwaka penjo ma en ni...
+
+## Fallback Safety Phrases (Luo)
+- Ok an gi ngeyo ma oromo e kamano; inyalo meda gi weche matin?
+- Anyalo konyi ka ichiwo ranyisi mar gima idwaro achiel ka achiel.
+- Wabed gi wach ma yot mondo iwinj.
+
+## Retrieval Anchors
+These lines intentionally include search anchors:
+- dholuo grammar explanation
+- luo translation english swahili
+- luo greetings misawa idhi nade adhi maber
+- luo technology vocabulary komputer intanet website
+- luo business education health domain words
+- luo assistant response policy multilingual

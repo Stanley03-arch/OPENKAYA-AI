@@ -1,0 +1,345 @@
+**Luo Question & Answer Pairs (Penjo gi Dwoko e Dholuo)**
+
+**Basic Questions & Answers:**
+
+**1. Greetings:**
+Q: **Nango?** (How are you?)
+A: **Adhi maber. In nango?** (I'm fine. How are you?)
+
+Q: **Oyawore?** (Good morning?)
+A: **Oyawore. Inindo nade?** (Good morning. Did you sleep well?)
+
+Q: **Oimore?** (Good afternoon?)
+A: **Oimore. Tich dhi nade?** (Good afternoon. Is work going well?)
+
+Q: **Otieno?** (Good evening?)
+A: **Otieno. Chieng' ne nade?** (Good evening. How was your day?)
+
+**2. Personal Information:**
+Q: **Nyingi ng'a?** (What is your name?)
+A: **Nyinga en Otieno.** (My name is Otieno.)
+
+Q: **Idak kanye?** (Where do you live?)
+A: **Adak Kisumu.** (I live in Kisumu.)
+
+Q: **Ia kanye?** (Where are you from?)
+A: **Aa Siaya.** (I'm from Siaya.)
+
+Q: **In gi higni adi?** (How old are you?)
+A: **An gi higni piero ariyo.** (I am 20 years old.)
+
+Q: **Itimo tich mane?** (What work do you do?)
+A: **An japuonj.** (I am a teacher.)
+
+Q: **In gi joodi adi?** (How many family members do you have?)
+A: **An gi jooda abich.** (I have 5 family members.)
+
+**3. Daily Activities:**
+Q: **Itimo ang'o kawuono?** (What are you doing today?)
+A: **Adhi tich.** (I'm going to work.)
+
+Q: **Isechiemo?** (Have you eaten?)
+A: **Ee, asechiemo.** (Yes, I have eaten.)
+
+Q: **Idwaro chiemo ang'o?** (What food do you want?)
+A: **Adwaro kuon gi rech.** (I want ugali and fish.)
+
+Q: **Ibiro dhi kanye?** (Where are you going?)
+A: **Adhi ohala.** (I'm going to the market.)
+
+Q: **Ibiro dok sa adi?** (What time will you return?)
+A: **Abiro dok sa abich.** (I will return at 5 o'clock.)
+
+**4. Time & Date:**
+Q: **Sa adi sani?** (What time is it now?)
+A: **En sa ariyo.** (It's 2 o'clock.)
+
+Q: **Kawuono en chieng' mane?** (What day is today?)
+A: **Kawuono en Tich Ariyo.** (Today is Tuesday.)
+
+Q: **Dwe mane sani?** (What month is it now?)
+A: **En dwe mar ariyo.** (It's February.)
+
+Q: **Higa mane sani?** (What year is it now?)
+A: **En higa mar 2026.** (It's the year 2026.)
+
+**5. Weather:**
+Q: **Piny chalo nade kawuono?** (How is the weather today?)
+A: **Piny ber, chieng' rieny.** (The weather is good, the sun is shining.)
+
+Q: **Koth biro chue?** (Will it rain?)
+A: **Ee, koth biro chue odhiambo.** (Yes, it will rain in the evening.)
+
+Q: **Piny liet?** (Is it hot?)
+A: **Ee, piny liet ahinya.** (Yes, it's very hot.)
+
+**6. Health:**
+Q: **Dendi nade?** (How is your health?)
+A: **Denda ber.** (My health is good.)
+
+Q: **In tuo?** (Are you sick?)
+A: **Ee, atuo matin.** (Yes, I'm a little sick.)
+
+Q: **Ituo gi ang'o?** (What are you sick with?)
+A: **Atuo gi midhusi.** (I'm sick with malaria.)
+
+Q: **Isedhi ir jadak?** (Have you gone to the doctor?)
+A: **Ee, asedhi ir jadak.** (Yes, I have gone to the doctor.)
+
+Q: **Jadak nowachoni ang'o?** (What did the doctor tell you?)
+A: **Nomiya yath.** (He gave me medicine.)
+
+**7. Family:**
+Q: **Wuonu nying'i ng'a?** (What is your father's name?)
+A: **Wuora nyinge Omondi.** (My father's name is Omondi.)
+
+Q: **Minu nying'i ng'a?** (What is your mother's name?)
+A: **Mina nyinge Akinyi.** (My mother's name is Akinyi.)
+
+Q: **In gi owete adi?** (How many siblings do you have?)
+A: **An gi owete adek.** (I have 3 siblings.)
+
+Q: **Isekendo?** (Are you married?)
+A: **Ee, asekendo.** (Yes, I'm married.)
+
+Q: **In gi nyithindo adi?** (How many children do you have?)
+A: **An gi nyithindo ariyo.** (I have 2 children.)
+
+**8. Education:**
+Q: **Isomo kanye?** (Where do you study?)
+A: **Asomo yunivesiti.** (I study at university.)
+
+Q: **Isomo ang'o?** (What do you study?)
+A: **Asomo sayansi.** (I study science.)
+
+Q: **In e klasi mane?** (What class are you in?)
+A: **An e Form Four.** (I'm in Form Four.)
+
+Q: **Exam dhi nade?** (How did the exam go?)
+A: **Exam nodhi maber.** (The exam went well.)
+
+Q: **Iyudo alama maber?** (Did you get good marks?)
+A: **Ee, ayudo alama maber.** (Yes, I got good marks.)
+
+**9. Shopping:**
+Q: **Gimani en pesa adi?** (How much is this?)
+A: **En shilingi mia achiel.** (It's 100 shillings.)
+
+Q: **In gi gimoro maber moloyo?** (Do you have something better?)
+A: **Ee, an gi gimoro maber moloyo.** (Yes, I have something better.)
+
+Q: **Inyalo dwoko pesa matin?** (Can you reduce the price?)
+A: **Ee, anyalo dwoko.** (Yes, I can reduce.)
+
+Q: **Ng'iewo gimani adi?** (How many of these will you buy?)
+A: **Abiro ng'iewo ariyo.** (I will buy two.)
+
+Q: **Achul nade?** (How do I pay?)
+A: **Inyalo chulo gi pesa kata M-Pesa.** (You can pay with cash or M-Pesa.)
+
+**10. Directions:**
+Q: **Banki ni kanye?** (Where is the bank?)
+A: **Banki ni e yo korachwich.** (The bank is on the right.)
+
+Q: **Kaka adhi hospitali?** (How do I get to the hospital?)
+A: **Dhi tir, eka ilok yo koracham.** (Go straight, then turn left.)
+
+Q: **Bor adi?** (How far is it?)
+A: **Ok bor, mana dakika abich kowuotho.** (Not far, just 5 minutes walking.)
+
+Q: **Matatu madhi Kisumu ni kanye?** (Where is the matatu to Kisumu?)
+A: **Matatu ni e kituo.** (The matatu is at the station.)
+
+**11. Technology:**
+Q: **In gi simu?** (Do you have a phone?)
+A: **Ee, an gi simu.** (Yes, I have a phone.)
+
+Q: **Namba mari en adi?** (What is your number?)
+A: **Namba mara en 0712345678.** (My number is 0712345678.)
+
+Q: **In gi intanet?** (Do you have internet?)
+A: **Ee, an gi Wi-Fi.** (Yes, I have Wi-Fi.)
+
+Q: **Inyalo konyoa gi kompyuta?** (Can you help me with the computer?)
+A: **Ee, anyalo konyi.** (Yes, I can help you.)
+
+Q: **Kaka atim download?** (How do I download?)
+A: **Dii button mar download.** (Click the download button.)
+
+**12. Food & Dining:**
+Q: **Idwaro metho ang'o?** (What do you want to drink?)
+A: **Adwaro chai.** (I want tea.)
+
+Q: **Chiemo ber?** (Is the food good?)
+A: **Ee, chiemo ber ahinya.** (Yes, the food is very good.)
+
+Q: **Chiemo en pesa adi?** (How much is the food?)
+A: **Chiemo en shilingi mia ariyo.** (The food is 200 shillings.)
+
+Q: **Inyalo kelona pi?** (Can you bring me water?)
+A: **Ee, abiro keloni pi.** (Yes, I will bring you water.)
+
+Q: **Chiemo osechiek?** (Is the food finished?)
+A: **Ooyo, pod wan gi chiemo.** (No, we still have food.)
+
+**13. Work & Business:**
+Q: **Tich dhi nade?** (How is work going?)
+A: **Tich dhi maber.** (Work is going well.)
+
+Q: **Itimo tich kanye?** (Where do you work?)
+A: **Atimo tich e banki.** (I work at a bank.)
+
+Q: **Ichako tich sa adi?** (What time do you start work?)
+A: **Achako tich sa aboro.** (I start work at 8 o'clock.)
+
+Q: **Igik tich sa adi?** (What time do you finish work?)
+A: **Agik tich sa abich.** (I finish work at 5 o'clock.)
+
+Q: **Iyudo chul adi e dwe?** (How much do you earn per month?)
+A: **Ayudo shilingi alufu piero abich.** (I earn 50,000 shillings.)
+
+**14. Travel:**
+Q: **Isebedo Kenya?** (Have you been to Kenya?)
+A: **Ee, asebedo Kenya.** (Yes, I have been to Kenya.)
+
+Q: **Idwaro dhi kanye?** (Where do you want to go?)
+A: **Adwaro dhi Nairobi.** (I want to go to Nairobi.)
+
+Q: **Ibiro wuotho nade?** (How will you travel?)
+A: **Abiro idho bas.** (I will take a bus.)
+
+Q: **Wuoth kawo kinde adi?** (How long does the journey take?)
+A: **Kawo sa auchiel.** (It takes 6 hours.)
+
+Q: **Passport mari ni kanye?** (Where is your passport?)
+A: **Passport mara ni e ot.** (My passport is at home.)
+
+**15. Hobbies & Interests:**
+Q: **Ihero timo ang'o?** (What do you like to do?)
+A: **Ahero goyo mpira.** (I like playing football.)
+
+Q: **In gi hera mane?** (What is your hobby?)
+A: **Hera mara en somo buke.** (My hobby is reading books.)
+
+Q: **Ihero wer mane?** (What music do you like?)
+A: **Ahero Benga.** (I like Benga music.)
+
+Q: **Ibiro dhi e sinema?** (Will you go to the cinema?)
+A: **Ee, abiro dhi Jumapili.** (Yes, I will go on Sunday.)
+
+**16. Feelings & Emotions:**
+Q: **Imor?** (Are you happy?)
+A: **Ee, amor ahinya.** (Yes, I'm very happy.)
+
+Q: **Ang'o omiyo ilit?** (Why are you sad?)
+A: **Alit nikech osiepena otho.** (I'm sad because my friend died.)
+
+Q: **In gi luoro?** (Are you afraid?)
+A: **Ooyo, aonge gi luoro.** (No, I'm not afraid.)
+
+Q: **Imirima?** (Are you angry?)
+A: **Ee, amirima matin.** (Yes, I'm a little angry.)
+
+**17. Religion & Spirituality:**
+Q: **Ilamo?** (Do you pray?)
+A: **Ee, alamo pile.** (Yes, I pray always.)
+
+Q: **Idhi kanisa?** (Do you go to church?)
+A: **Ee, adhi kanisa Jumapili.** (Yes, I go to church on Sunday.)
+
+Q: **Iyie gi Nyasaye?** (Do you believe in God?)
+A: **Ee, ayie gi Nyasaye.** (Yes, I believe in God.)
+
+Q: **Isomo Muma?** (Do you read the Bible?)
+A: **Ee, asomo Muma pile.** (Yes, I read the Bible always.)
+
+**18. Sports:**
+Q: **Ihero tim mane?** (What sport do you like?)
+A: **Ahero mpira.** (I like football.)
+
+Q: **In e tim mane?** (What team are you on?)
+A: **An e tim mar Gor Mahia.** (I'm on Gor Mahia team.)
+
+Q: **Igoyo mpira?** (Do you play football?)
+A: **Ee, agoyo mpira Jumamosi.** (Yes, I play football on Saturday.)
+
+Q: **Ng'a noloso?** (Who won?)
+A: **Gor Mahia noloso.** (Gor Mahia won.)
+
+**19. Nature & Environment:**
+Q: **Ihero yiende?** (Do you like trees?)
+A: **Ee, ahero yiende.** (Yes, I like trees.)
+
+Q: **Nam Lolwe bor adi?** (How far is Lake Victoria?)
+A: **Nam Lolwe ok bor.** (Lake Victoria is not far.)
+
+Q: **Isebedo e Got Ramogi?** (Have you been to Got Ramogi?)
+A: **Ee, asebedo kanyo.** (Yes, I have been there.)
+
+Q: **Piny ler?** (Is it clean?)
+A: **Ooyo, piny ok ler.** (No, it's not clean.)
+
+**20. Problems & Solutions:**
+Q: **In gi chandruok mane?** (What problem do you have?)
+A: **An gi chandruok mar pesa.** (I have a money problem.)
+
+Q: **Anyalo konyi nade?** (How can I help you?)
+A: **Inyalo hola pesa.** (You can lend me money.)
+
+Q: **Chandruok en duong' nade?** (How big is the problem?)
+A: **Chandruok duong' ahinya.** (The problem is very big.)
+
+Q: **Ibiro tiyo nade?** (What will you do?)
+A: **Abiro kwayo kony.** (I will ask for help.)
+
+**Advanced Conversational Q&A:**
+
+**21. Opinions:**
+Q: **Iparo nade kuom wachni?** (What do you think about this?)
+A: **Aparo ni ber.** (I think it's good.)
+
+Q: **Iyie kod wachni?** (Do you agree with this?)
+A: **Ee, ayie.** (Yes, I agree.)
+
+Q: **Rieko mari en ang'o?** (What is your opinion?)
+A: **Rieko mara en ni nyaka watim kamano.** (My opinion is that we should do it that way.)
+
+**22. Future Plans:**
+Q: **Ibiro timo ang'o kiny?** (What will you do tomorrow?)
+A: **Abiro dhi tich.** (I will go to work.)
+
+Q: **In gi chenro mane?** (What are your plans?)
+A: **Chenro mara en dhi yunivesiti.** (My plan is to go to university.)
+
+Q: **Idwaro bedo ang'o e ngimani?** (What do you want to be in life?)
+A: **Adwaro bedo jadak.** (I want to be a doctor.)
+
+**23. Past Experiences:**
+Q: **Isetiyo ang'o nyoro?** (What did you do yesterday?)
+A: **Ne adhi ohala.** (I went to the market.)
+
+Q: **Isebedo kanye chon?** (Where have you been recently?)
+A: **Asebedo Nairobi.** (I have been to Nairobi.)
+
+Q: **Gimoro maber mane notimore?** (What good thing happened?)
+A: **Ne ayudo tich manyien.** (I got a new job.)
+
+**24. Requests & Permissions:**
+Q: **Anyalo dhi?** (Can I go?)
+A: **Ee, inyalo dhi.** (Yes, you can go.)
+
+Q: **Inyalo konya?** (Can you help me?)
+A: **Ee, anyalo konyi.** (Yes, I can help you.)
+
+Q: **Anyalo ng'iewo gimani?** (Can I buy this?)
+A: **Ee, inyalo ng'iewo.** (Yes, you can buy it.)
+
+**25. Comparisons:**
+Q: **Mane ber moloyo?** (Which is better?)
+A: **Mani ber moloyo.** (This one is better.)
+
+Q: **En duong' moloyo mano?** (Is it bigger than that?)
+A: **Ee, en duong' moloyo.** (Yes, it's bigger.)
+
+Q: **Ng'a mariek moloyo?** (Who is wiser?)
+A: **Jaduong' mariek moloyo.** (The elder is wiser.)

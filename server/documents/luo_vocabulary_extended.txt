@@ -1,0 +1,186 @@
+**Extended Luo Vocabulary (Weche Mathoth mag Dholuo)**
+
+**Colors (Rangi):**
+- **Rachar** en Red. (Rachar means Red).
+- **Marach** en Black. (Marach means Black).
+- **Marachar** en White. (Marachar means White).
+- **Mabor** en Green/Blue. (Mabor means Green or Blue).
+- **Makwar** en Yellow. (Makwar means Yellow).
+- **Marateng'** en Brown. (Marateng' means Brown).
+
+**Body Parts (Ringruok mar Dend):**
+- **Wich** en Head. (Wich means Head).
+- **Wangʼ** en Eye. (Wang' means Eye).
+- **It** en Ear. (It means Ear).
+- **Um** en Nose. (Um means Nose).
+- **Dhok** en Mouth/Language. (Dhok means Mouth or Language).
+- **Lep** en Tongue. (Lep means Tongue).
+- **Lak** en Tooth. (Lak means Tooth).
+- **Ng'ut** en Neck. (Ng'ut means Neck).
+- **Bad** en Arm/Hand. (Bad means Arm or Hand).
+- **Chwat** en Finger. (Chwat means Finger).
+- **Fuond** en Chest. (Fuond means Chest).
+- **Ich** en Stomach/Belly. (Ich means Stomach).
+- **Tielo** en Back. (Tielo means Back).
+- **Tiend** en Leg/Foot. (Tiend means Leg or Foot).
+- **Chong** en Knee. (Chong means Knee).
+
+**Verbs - Actions (Tich):**
+- **Dhi** = To go.
+- **Biro** = To come.
+- **Chiemo** = To eat.
+- **Madho** = To drink.
+- **Nindo** = To sleep.
+- **Chiewo** = To wake up.
+- **Wuotho** = To walk.
+- **Ringo** = To run.
+- **Bedo** = To sit/stay.
+- **Chung** = To stand.
+- **Goyo** = To hit/beat.
+- **Mako** = To catch/hold.
+- **Chiwo** = To give.
+- **Kawo** = To take.
+- **Loko** = To change/translate.
+- **Somo** = To read.
+- **Ndiko** = To write.
+- **Wuoyo** = To speak/talk.
+- **Winjo** = To hear/listen.
+- **Neno** = To see.
+- **Ng'eyo** = To know.
+- **Dwaro** = To want.
+- **Hera** = To love/like.
+- **Luongo** = To call.
+- **Timo** = To do/make.
+- **Golo** = To remove/take out.
+- **Keto** = To put/place.
+- **Donjo** = To enter.
+- **Wuok** = To exit/go out.
+
+**Time (Kinde):**
+- **Okinyi** en Morning. (Okinyi means Morning).
+- **Odiechieng'** en Afternoon/Day. (Odiechieng' means Afternoon or Day).
+- **Odhiambo** en Evening. (Odhiambo means Evening).
+- **Otieno** en Night. (Otieno means Night).
+- **Kawuono** en Today. (Kawuono means Today).
+- **Kiny** en Tomorrow. (Kiny means Tomorrow).
+- **Nyoro** en Yesterday. (Nyoro means Yesterday).
+- **Juma** en Week. (Juma means Week).
+- **Dwe** en Month/Moon. (Dwe means Month or Moon).
+- **Higa** en Year. (Higa means Year).
+
+**Days of the Week (Ndalo mar Juma):**
+- **Wuok Tich** en Monday. (Wuok Tich means Monday - literally "start work").
+- **Tich Ariyo** en Tuesday. (Tich Ariyo means Tuesday - "second work day").
+- **Tich Adek** en Wednesday. (Tich Adek means Wednesday - "third work day").
+- **Tich Ang'wen** en Thursday. (Tich Ang'wen means Thursday - "fourth work day").
+- **Tich Abich** en Friday. (Tich Abich means Friday - "fifth work day").
+- **Ngeso** en Saturday. (Ngeso means Saturday).
+- **Jumapil** en Sunday. (Jumapil means Sunday - "prayer week").
+
+**Weather (Chwech):**
+- **Chieng'** en Sun/Day. (Chieng' means Sun or Day).
+- **Koth** en Rain. (Koth means Rain).
+- **Yamo** en Wind. (Yamo means Wind).
+- **Bor polo** en Cloud. (Bor polo means Cloud).
+- **Mor** en Lightning. (Mor means Lightning).
+- **Polo mol** en Thunder. (Polo mol means Thunder).
+- **Ngʼich** en Cold. (Ng'ich means Cold).
+- **Liet** en Hot. (Liet means Hot).
+
+**Places (Kuonde):**
+- **Taon** en Town/City. (Taon means Town).
+- **Gweng'** en Village. (Gweng' means Village).
+- **Dala** en Home/Homestead. (Dala means Home).
+- **Ot** en House. (Ot means House).
+- **Skul** en School. (Skul means School).
+- **Kanisa** en Church. (Kanisa means Church).
+- **Chiro** en Hospital. (Chiro means Hospital).
+- **Ohala** en Market. (Ohala means Market).
+- **Yo** en Road/Way. (Yo means Road).
+- **Nam** en Lake/Water body. (Nam means Lake).
+- **Aora** en River. (Aora means River).
+- **Got** en Mountain/Hill. (Got means Mountain).
+- **Bungu** en Forest. (Bungu means Forest).
+
+**Food Items (Chiemo):**
+- **Kuon** en Ugali. (Kuon means Ugali).
+- **Rech** en Fish. (Rech means Fish).
+- **Ringruok** en Meat. (Ringruok means Meat).
+- **Alode** en Vegetables. (Alode means Vegetables).
+- **Omena** en Small fish (sardines). (Omena means Small fish).
+- **Nyoyo** en Beans. (Nyoyo means Beans).
+- **Oduma** en Maize. (Oduma means Maize).
+- **Mogo** en Cassava. (Mogo means Cassava).
+- **Rabuon** en Sweet potato. (Rabuon means Sweet potato).
+- **Nyuka** en Banana. (Nyuka means Banana).
+- **Ng'ope** en Mango. (Ng'ope means Mango).
+- **Chak** en Bread. (Chak means Bread).
+- **Chak** en Sugar. (Chak can also mean Sugar in some contexts).
+- **Chumbi** en Salt. (Chumbi means Salt).
+
+**Adjectives (Weche Malerore):**
+- **Maduong'** = Big/Large/Important.
+- **Matin** = Small/Little.
+- **Ber** = Good/Beautiful.
+- **Rach** = Bad/Ugly.
+- **Liet** = Hot.
+- **Ng'ich** = Cold.
+- **Tek** = Hard/Difficult.
+- **Yot** = Easy/Soft.
+- **Maber** = Well/Good (adverb).
+- **Marach** = Badly.
+- **Mangʼeny** = Many/Much.
+- **Manok** = Few/Little.
+- **Bor** = Far.
+- **Machiegni** = Near/Close.
+- **Manyien** = New.
+- **Machon** = Old.
+
+**Questions Words (Penjo):**
+- **Ng'a?** = Who?
+- **Ang'o?** = What?
+- **Kanye?** = Where?
+- **Karang'o?** = When?
+- **Ere kaka?** = How?
+- **Mara ang'o?** = Why?
+- **Adi?** = Which?
+
+**Common Expressions (Weche Moko):**
+- **Erokamano** = Thank you.
+- **Erokamano ahinya** = Thank you very much.
+- **Ber** = OK/Good.
+- **Ber ahinya** = Very good.
+- **Kik iparri** = Don't worry.
+- **Awinjo** = I understand.
+- **Ok awinjo** = I don't understand.
+- **Wach maber** = Speak well/Good words.
+- **Dhi maber** = Go well (goodbye when someone is leaving).
+- **Bed maber** = Stay well (goodbye when you are leaving).
+- **Koro** = Now.
+- **Eka** = Then/Later.
+- **Chon** = Long ago/Before.
+- **Ee** = Yes.
+- **Ooyo** = No.
+- **Adier** = True/Really.
+- **Miriambo** = Maybe/Perhaps.
+
+**Emotions (Pacho):**
+- **Mor** = Happy/Joy.
+- **Kuyo** = Sad/Sorrow.
+- **Mirima** = Anger.
+- **Luoro** = Fear.
+- **Hera** = Love.
+- **Nyiego** = Hate.
+- **Bwok** = Shame.
+
+**Occupations (Tije):**
+- **Japuonj** = Teacher.
+- **Jadak** = Doctor.
+- **Japur** = Farmer.
+- **Jaduong'** = Elder/Leader.
+- **Jatelo** = Leader/Chief.
+- **Jachien** = Fisherman.
+- **Jachweyo** = Creator/Maker.
+- **Jasomo** = Student.
+- **Jandiko** = Writer.
+- **Jakok** = Driver.

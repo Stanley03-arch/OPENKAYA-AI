@@ -1,0 +1,329 @@
+**Luo Sentence Patterns & Construction (Chenro mar Weche e Dholuo)**
+
+**Basic Sentence Patterns:**
+
+**Pattern 1: Subject + Verb**
+- **An adhi** = I go
+- **In ibiro** = You come
+- **En ochiemo** = He/She eats
+- **Wan watimo** = We do
+- **Gin giwuotho** = They walk
+
+**Pattern 2: Subject + Verb + Object**
+- **An achiemo kuon** = I eat ugali
+- **In isomo buku** = You read a book
+- **En otedo chiemo** = He/She cooks food
+- **Wan wang'iewo jamni** = We buy animals
+- **Gin gidwaro pesa** = They want money
+
+**Pattern 3: Subject + Verb + Adjective**
+- **Ot duong'** = The house is big
+- **Chiemo ber** = The food is good
+- **Piny liet** = The weather is hot
+- **Buku tek** = The book is difficult
+- **Tich yot** = The work is easy
+
+**Pattern 4: Subject + "gi" (have) + Object**
+- **An gi pesa** = I have money
+- **In gi simu** = You have a phone
+- **En gi joode** = He/She has family
+- **Wan gi jamni** = We have animals
+- **Gin gi ot** = They have a house
+
+**Pattern 5: Subject + Verb + Location**
+- **An adak Kisumu** = I live in Kisumu
+- **In idhi skul** = You go to school
+- **En obedo e ot** = He/She is at home
+- **Wan wadhi ohala** = We go to the market
+- **Gin gitimo tich e ofis** = They work in the office
+
+---
+
+**Negation Patterns:**
+
+**Pattern 1: Ok + Subject + Verb**
+- **Ok adhi** = I don't go
+- **Ok ibiro** = You don't come
+- **Ok ochiemo** = He/She doesn't eat
+- **Ok watimo** = We don't do
+- **Ok giwuotho** = They don't walk
+
+**Pattern 2: Subject + ok + gi + Object**
+- **An ok gi pesa** = I don't have money
+- **In ok gi simu** = You don't have a phone
+- **En ok gi joode** = He/She doesn't have family
+
+**Pattern 3: Ok + Adjective**
+- **Ok ber** = Not good
+- **Ok duong'** = Not big
+- **Ok tek** = Not difficult
+
+---
+
+**Question Patterns:**
+
+**Pattern 1: Question Word + Subject + Verb**
+- **Ang'o itimo?** = What are you doing?
+- **Kanye idhi?** = Where are you going?
+- **Sa adi ibiro?** = What time are you coming?
+- **Ng'a owacho?** = Who said?
+- **Kare ang'o?** = Why?
+
+**Pattern 2: Subject + Verb + Question Marker**
+- **In idhi?** = Are you going?
+- **En obiro?** = Is he/she coming?
+- **Wan watimo?** = Are we doing?
+- **Gin gichiemo?** = Are they eating?
+
+**Pattern 3: Verb + gi + Question Word**
+- **In gi ang'o?** = What do you have?
+- **En gi ng'a?** = Who does he/she have?
+- **Wan gi adi?** = How many do we have?
+
+---
+
+**Compound Sentence Patterns:**
+
+**Pattern 1: Sentence + kendo + Sentence (and)**
+- **Adhi tich kendo abiro dok odhiambo** = I go to work and I will return in the evening
+- **En ochiemo kendo ometho** = He/She eats and drinks
+- **Wan wasomo kendo watimo tich** = We study and we work
+
+**Pattern 2: Sentence + to + Sentence (but)**
+- **Adwaro dhi, to aonge gi pesa** = I want to go, but I don't have money
+- **En ber, to tek** = It's good, but difficult
+- **Wan wadwaro konyo, to ok wanyal** = We want to help, but we cannot
+
+**Pattern 3: Ka + Sentence, Sentence (if/when)**
+- **Ka koth ochue, ok wabiro dhi** = If it rains, we won't go
+- **Ka ibiro, wabiro chiemo** = When you come, we will eat
+- **Ka in gi pesa, ng'iew gimoro** = If you have money, buy something
+
+**Pattern 4: Nikech + Sentence (because)**
+- **Ok adhi nikech atuo** = I'm not going because I'm sick
+- **Amor nikech ayudo tich** = I'm happy because I got a job
+- **Gidhi nikech gidwaro** = They go because they want to
+
+---
+
+**Time-Related Patterns:**
+
+**Present Continuous:**
+- **An a + verb + -o** = I am (verb)ing
+- **An achiemo** = I am eating
+- **An awuotho** = I am walking
+- **An atimo** = I am doing
+
+**Past Tense:**
+- **Ne + subject + verb**
+- **Ne adhi** = I went
+- **Ne ochiemo** = He/She ate
+- **Ne watimo** = We did
+
+**Future Tense:**
+- **Subject + biro + verb**
+- **Abiro dhi** = I will go
+- **Obiro chiemo** = He/She will eat
+- **Wabiro timo** = We will do
+
+**Present Perfect:**
+- **Subject + ose + verb**
+- **Asedhi** = I have gone
+- **Osechiemo** = He/She has eaten
+- **Wasetimo** = We have done
+
+---
+
+**Possession Patterns:**
+
+**Pattern 1: Noun + mar + Owner**
+- **Buku mar Otieno** = Otieno's book
+- **Ot mar wuora** = My father's house
+- **Simu mar min** = Mother's phone
+- **Gari mar jatelo** = The boss's car
+
+**Pattern 2: Owner + -a/e + Noun**
+- **Bukuna** = Your book
+- **Ota** = My house
+- **Simune** = His/Her phone
+- **Garwa** = Our car
+
+---
+
+**Comparison Patterns:**
+
+**Pattern 1: Adjective + moloyo**
+- **Ber moloyo** = Better / More good
+- **Duong' moloyo** = Bigger
+- **Tek moloyo** = Harder / More difficult
+- **Yot moloyo** = Easier
+
+**Pattern 2: Subject + Adjective + moloyo + Object**
+- **Mani ber moloyo mano** = This is better than that
+- **Otieno duong' moloyo Omondi** = Otieno is bigger than Omondi
+- **Buku mani tek moloyo mano** = This book is harder than that
+
+**Pattern 3: Chalo gi (like/similar to)**
+- **En chalo gi wuon-gi** = He is like his father
+- **Gimani chalo gi mano** = This is like that
+- **Piny kawuono chalo gi nyoro** = Today's weather is like yesterday's
+
+---
+
+**Causative Patterns:**
+
+**Pattern 1: Verb + -bo (make someone do)**
+- **Chiemo** → **Chiembo** (to feed)
+- **Nindo** → **Nindbo** (to put to sleep)
+- **Somo** → **Sombo** (to teach/make read)
+
+Usage:
+- **Min chiembo nyathi** = Mother feeds the child
+- **Wuoro nindbo nyathi** = Father puts the child to sleep
+- **Japuonj sombo nyithindo** = Teacher teaches children
+
+---
+
+**Reciprocal Patterns:**
+
+**Pattern 1: Verb + -ore (each other)**
+- **Goyo** → **Goyore** (hit each other)
+- **Konyo** → **Konyore** (help each other)
+- **Hera** → **Herore** (love each other)
+
+Usage:
+- **Gin goyore** = They hit each other
+- **Wan wakonyore** = We help each other
+- **Ji herore** = People love each other
+
+---
+
+**Emphasis Patterns:**
+
+**Pattern 1: Using "mana" (only/just)**
+- **An mana** = Only me
+- **Chieng' mana** = Just today
+- **Gimoro mana** = Just something
+
+**Pattern 2: Using "kende" (alone/only)**
+- **An kende** = Me alone
+- **Achiel kende** = Only one
+- **En kende** = He/She alone
+
+**Pattern 3: Using "ahinya" (very/really)**
+- **Ber ahinya** = Very good
+- **Duong' ahinya** = Very big
+- **Tek ahinya** = Very hard
+
+---
+
+**Polite Request Patterns:**
+
+**Pattern 1: Kiyie + verb (please)**
+- **Kiyie ikonya** = Please help me
+- **Kiyie ikelona pi** = Please bring me water
+- **Kiyie ibiro** = Please come
+
+**Pattern 2: Anyalo + verb? (May I...?)**
+- **Anyalo dhi?** = May I go?
+- **Anyalo ng'iewo?** = May I buy?
+- **Anyalo penjo?** = May I ask?
+
+**Pattern 3: Inyalo + verb? (Can you...?)**
+- **Inyalo konya?** = Can you help me?
+- **Inyalo nyisa?** = Can you show me?
+- **Inyalo rito?** = Can you wait?
+
+---
+
+**Location Patterns:**
+
+**Pattern 1: E + Location (at/in)**
+- **E ot** = At home
+- **E skul** = At school
+- **E ohala** = At the market
+- **E Kisumu** = In Kisumu
+
+**Pattern 2: Ir + Person (at someone's place)**
+- **Ir wuora** = At father's place
+- **Ir jadak** = At the doctor's
+- **Ir osiepena** = At my friend's place
+
+**Pattern 3: Kanye (where)**
+- **Idak kanye?** = Where do you live?
+- **Idhi kanye?** = Where are you going?
+- **En kanye?** = Where is he/she?
+
+---
+
+**Purpose Patterns:**
+
+**Pattern 1: Mondo + verb (in order to)**
+- **Adhi skul mondo asom** = I go to school in order to study
+- **Atimo tich mondo ayud pesa** = I work in order to get money
+- **Achiemo mondo abed motegno** = I eat in order to be strong
+
+**Pattern 2: Ne + purpose**
+- **Abiro ne konyi** = I will come to help you
+- **Adhi ne ng'iewo** = I go to buy
+- **Obiro ne neno** = He/She comes to see
+
+---
+
+**Conditional Patterns (Advanced):**
+
+**Real Condition (Ka + present):**
+- **Ka ibiro, wabiro chiemo** = If you come, we will eat
+- **Ka koth ochue, ok wadhi** = If it rains, we won't go
+- **Ka in gi pesa, ng'iew** = If you have money, buy
+
+**Unreal Condition (Ka ne + past):**
+- **Ka ne an gi pesa, da ng'iewo** = If I had money, I would buy
+- **Ka ne en ni ka, da okonyo** = If he/she were here, he/she would help
+- **Ka ne wang'eyo, da wawacho** = If we knew, we would tell
+
+**Past Unreal (Ka ne ose + verb):**
+- **Ka ne osechiemo, ok da otuo** = If he/she had eaten, he/she wouldn't be sick
+- **Ka ne isomo, da iloso** = If you had studied, you would have passed
+
+---
+
+**Reporting Patterns:**
+
+**Direct Speech:**
+- **En owacho, "Adhi dala"** = He/She said, "I'm going home"
+
+**Indirect Speech:**
+- **En owacho ni odhi dala** = He/She said that he/she is going home
+- **Omondi owacho ni ochiemo** = Omondi said that he is eating
+- **Ne owacho ni obiro** = He/She said that he/she will come
+
+---
+
+**Descriptive Patterns:**
+
+**Pattern 1: Noun + ma + Description**
+- **Ng'at ma ber** = A good person
+- **Ot ma duong'** = A big house
+- **Chiemo ma mit** = Delicious food
+
+**Pattern 2: Noun + ma + nigi + Quality**
+- **Ng'at ma nigi chuny maber** = A person who has a good heart
+- **Ot ma nigi rude** = A house that has rooms
+- **Buku ma nigi weche mathoth** = A book that has many things
+
+---
+
+**Sequential Action Patterns:**
+
+**Pattern 1: First, then (Mokwongo, eka)**
+- **Mokwongo chiemo, eka dhi** = First eat, then go
+- **Mokwongo somo, eka timo tich** = First study, then work
+
+**Pattern 2: After (Bang')**
+- **Bang' chiemo, wabiro dhi** = After eating, we will go
+- **Bang' tich, abiro biro** = After work, I will come
+
+**Pattern 3: Before (Kapok)**
+- **Kapok adhi, nyaka achiemo** = Before I go, I must eat
+- **Kapok itimo, par** = Before you do, think

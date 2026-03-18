@@ -1,0 +1,148 @@
+# Luo RAG Power Pack v3
+
+Additional high-recall Luo content for robust assistant performance.
+
+## Fast Greeting Variants
+- Misawa?
+- Misawa ahinya.
+- Nango?
+- An maber, in nadi?
+- Idhi nade?
+- Adhi maber.
+- Ber?
+- Ber ahinya.
+- Oriti.
+- Oriti maber.
+- Oyaore.
+- Oyaore ahinya.
+
+## Polite Helper Phrases
+- Wakwayi, konya.
+- Wakwayi, dwoka kendo.
+- Inyalo nyisa yot yot?
+- Inyalo chiwo ranyisi?
+- Kik ibed gi wichkuot.
+- An gi penjo matin.
+
+## Practical Luo Dialogues
+Dialogue 1:
+- A: Misawa, inyalo konya gi assignment?
+- B: Ee, anyalo. Chiw penjo ma idwaro dwoko.
+
+Dialogue 2:
+- A: Ok awinjo maber.
+- B: Ber. Wabiro dwoko kendo e yore ma yot.
+
+Dialogue 3:
+- A: Adwaro yudo tich mar teknologi.
+- B: Chak gi basics, tim projects, kendo ket portfolio.
+
+Dialogue 4:
+- A: Inyalo loko wechegi e Swahili?
+- B: Ee, anyalo loko e Swahili kod English.
+
+## Sentence Construction Patterns
+- An + verb + object
+  - An adwaro somo.
+  - An anyalo timo tich.
+- In + verb + object
+  - In inyalo penjo gimoro.
+- Ka + condition + to + result
+  - Ka ok iwinjo, to penj kendo.
+- Mondo + purpose
+  - Som maber mondo iwinj.
+
+## Luo Learning Commands
+- Puonja Luo mar chonjo.
+- Nyisa grammar matin matin.
+- Miyo vocabulary mar pile.
+- Chweya exercise apar.
+- Dwoka gi ranyisi mar ngima mar pile.
+
+## School and Exam Content
+- Tem = exam
+- Somo = studying
+- Rieko = understanding
+- Dwoko = answer
+- Penjo = question
+- Buk = book
+- Tich mar dom = homework
+- Piny mar puonj = learning environment
+
+Q: Atim nade mondo adong' e tem?
+A: Pangwa saa mar somo, tim revision, kendo penjo ma ok iwinjo.
+
+Q: Inyalo chweyo revision guide?
+A: Ee, anyalo yiko topics, key points, kod practice questions.
+
+## Career and Work Content
+- Tich = work
+- Yudo tich = get a job
+- Chwiny mar tich = work attitude
+- Konyruok = teamwork
+- Balo saa = time waste
+- Timo yot = improve workflow
+
+Q: Atim nade mondo ayud tich?
+A: Ket CV maber, tim projects, som skills manyien, kendo timo network.
+
+Q: Inyalo yika cover letter?
+A: Ee, chiwa role ma idwaro, to anyiso modeli.
+
+## Business and Money Content
+- Biashara = business
+- Pesa = money
+- Chenro = save
+- Chudo = pay
+- Nengo = price
+- Gweng' = market
+
+Q: Atim nade mondo biashara odhi maber?
+A: Ng'eyi jachamo, ket nengo ma ber, kendo ti gi customer service maber.
+
+Q: Inyalo yika business plan?
+A: Ee, anyalo yiko objective, market, cost, revenue, kendo risk.
+
+## Technology and AI Content
+- Komputer = computer
+- Intanet = internet
+- Website = website
+- Aplikeshon = app
+- Data = data
+- AI = rieko ma nyiso
+
+Q: AI en ang'o?
+A: AI en rieko mar nyiso ma konyo machine ni onyalo ng'eyo, puonjore, kendo dwoko penjo.
+
+Q: Inyalo yika website code?
+A: Ee, anyalo chweyo HTML, CSS, JavaScript kod responsive layout.
+
+## Translation Table EN -> Luo
+- Explain simply -> Nyis e yore ma yot
+- Summarize this -> Temo weche ma e kae e thoth matin
+- Give examples -> Chiw ranyisi
+- Step by step -> Kaka hatua ka hatua
+- I need help -> Adwaro kony
+- I don't understand -> Ok awinjo
+- Thank you very much -> Erokamano ahinya
+
+## Translation Table Swahili -> Luo
+- Nisaidie tafadhali -> Wakwayi, konya
+- Sijui -> Ok ang'eyo
+- Naomba ufafanuzi -> Wakwayi, nyisa maber
+- Kazi yangu -> Tichna
+- Tafsiri hii -> Loko ma
+- Eleza kwa urahisi -> Nyis e yore ma yot
+
+## Error Recovery Phrases (Luo)
+- Ok awinjo penjo maber; inyalo dwoko gi yore machiegni?
+- Chiw paragraph duto mondo alokone maber.
+- Ka idwaro, anyalo yiko e bullet points.
+- Anyalo dwoko e Luo kendo e English ka idwaro.
+
+## Intent Anchors for Retrieval
+- luo conversation examples
+- dholuo grammar patterns
+- luo translation table english swahili
+- luo education business technology vocabulary
+- luo polite assistant responses

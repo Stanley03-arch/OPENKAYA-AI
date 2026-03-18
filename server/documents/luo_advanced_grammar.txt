@@ -1,0 +1,294 @@
+**Advanced Luo Grammar (Chik Mag Dholuo Matut)**
+
+**Advanced Tense Formations:**
+
+**1. Present Continuous (Kinde ma Kawuono Mamedo):**
+Used to describe actions happening right now.
+
+Formation: Pronoun + verb + -o/-e ending
+
+Examples:
+- **An atimo** = I am doing
+- **In itimo** = You are doing  
+- **En otimo** = He/She is doing
+- **Wan watimo** = We are doing
+- **Un utimo** = You (plural) are doing
+- **Gin gitimo** = They are doing
+
+More examples:
+- **An achiemo** = I am eating
+- **En owuotho** = He/She is walking
+- **Gin giwer** = They are singing
+
+**2. Present Perfect (Kinde ma Kawuono Morumo):**
+Used to describe completed actions with present relevance.
+
+Formation: Pronoun + ose + verb
+
+Examples:
+- **An osechiemo** = I have eaten
+- **In osechiemo** = You have eaten
+- **En osechiemo** = He/She has eaten
+- **Wan wasechiemo** = We have eaten
+- **Un usechiemo** = You (plural) have eaten
+- **Gin gisechiemo** = They have eaten
+
+More examples:
+- **An osedhi** = I have gone
+- **En osetimo** = He/She has done
+- **Wan wasesomo** = We have studied
+
+**3. Past Continuous (Kinde Mosekalo Mamedo):**
+Used to describe ongoing actions in the past.
+
+Formation: Pronoun + ne + verb + -o/-e
+
+Examples:
+- **An ne atimo** = I was doing
+- **In ne itimo** = You were doing
+- **En ne otimo** = He/She was doing
+- **Wan ne watimo** = We were doing
+- **Gin ne gitimo** = They were doing
+
+More examples:
+- **An ne achiemo** = I was eating
+- **En ne owuotho** = He/She was walking
+- **Gin ne giwer** = They were singing
+
+**4. Past Perfect (Kinde Mosekalo Morumo):**
+Used to describe actions completed before another past action.
+
+Formation: Pronoun + ne + ose + verb
+
+Examples:
+- **An ne osechiemo** = I had eaten
+- **In ne isechiemo** = You had eaten
+- **En ne osechiemo** = He/She had eaten
+- **Wan ne wasechiemo** = We had eaten
+- **Gin ne gisechiemo** = They had eaten
+
+More examples:
+- **An ne osedhi** = I had gone
+- **En ne osetimo** = He/She had done
+- **Kane abiro, en ne osedhi** = When I came, he/she had gone
+
+**5. Future Continuous (Kinde Mabiro Mamedo):**
+Used to describe ongoing actions in the future.
+
+Formation: Pronoun + biro + bedo + verb + -o/-e
+
+Examples:
+- **An biro bedo katimo** = I will be doing
+- **In biro bedo kitimo** = You will be doing
+- **En biro bedo kotimo** = He/She will be doing
+- **Wan biro bedo watimo** = We will be doing
+- **Gin biro bedo gitimo** = They will be doing
+
+More examples:
+- **An biro bedo kachiemo** = I will be eating
+- **En biro bedo kowuotho** = He/She will be walking
+
+**6. Future Perfect (Kinde Mabiro Morumo):**
+Used to describe actions that will be completed by a certain future time.
+
+Formation: Pronoun + biro + bedo + ose + verb
+
+Examples:
+- **An biro bedo osechiemo** = I will have eaten
+- **En biro bedo osedhi** = He/She will have gone
+- **Kane ibiro, an biro bedo osetimo** = When you come, I will have done it
+
+---
+
+**Conditional Sentences (Weche mag "Ka"):**
+
+**1. First Conditional (Real Possibility):**
+Used for real future possibilities.
+
+Structure: Ka + present tense, future tense
+
+Examples:
+- **Ka koth ochue, ok wabiro dhi** = If it rains, we will not go
+- **Ka isomo matek, ibiro loso exam** = If you study hard, you will pass the exam
+- **Ka ibiro, wabiro chiemo kaachiel** = If you come, we will eat together
+- **Ka in gi pesa, ng'iew gimoro** = If you have money, buy something
+
+**2. Second Conditional (Unreal Present):**
+Used for hypothetical or unlikely present situations.
+
+Structure: Ka + past tense, would + verb
+
+Examples:
+- **Ka ne an gi pesa, da ng'iewo gari** = If I had money, I would buy a car
+- **Ka ne en ni ka, da okonyo** = If he/she were here, he/she would help
+- **Ka ne wang'eyo, da wawacho** = If we knew, we would tell
+
+**3. Third Conditional (Unreal Past):**
+Used for past situations that didn't happen.
+
+Structure: Ka + past perfect, would have + verb
+
+Examples:
+- **Ka ne osechiemo, ok da otuo** = If he/she had eaten, he/she wouldn't have been sick
+- **Ka ne isomo, da iloso exam** = If you had studied, you would have passed
+- **Ka ne abiro mapok, da aneno** = If I had come earlier, I would have seen
+
+---
+
+**Subjunctive Mood (Kinde mar Dwaro):**
+
+Used to express wishes, suggestions, or hypothetical situations.
+
+Formation: Mondo + pronoun + verb
+
+Examples:
+- **Mondo odhi** = Let him/her go / He/she should go
+- **Mondo wabi** = Let us come / We should come
+- **Mondo itim** = You should do
+- **Mondo gichiemo** = They should eat
+
+More complex examples:
+- **Adwaro mondo ibiro** = I want you to come
+- **Oparo mondo wadhi** = He/She thinks we should go
+- **Jatelo owacho mondo gitim tich** = The leader said they should work
+
+---
+
+**Passive Voice (Dhok ma Ok Timo Gimoro):**
+
+Formation: Object + verb + gi/kod + subject
+
+Examples:
+- **Buku osesomo gi Otieno** = The book has been read by Otieno
+- **Chiemo osetedo gi min** = Food has been cooked by mother
+- **Ot oseloso gi japur** = The house has been built by the builder
+
+Alternative passive using "ne":
+- **Buku ne osomo** = The book was read
+- **Chiemo ne otedo** = Food was cooked
+- **Ot ne oloso** = The house was built
+
+---
+
+**Relative Clauses (Weche Mariwo):**
+
+**Using "ma" (who/which/that):**
+
+Examples:
+- **Ng'at **ma** odhi** = The person who went
+- **Buku **ma** asomo** = The book that I read
+- **Ot **ma** en-go** = The house that he/she has
+- **Chiemo **ma** min otedo** = The food that mother cooked
+
+More complex:
+- **An ahero ng'at ma nigi chuny maber** = I love a person who has a good heart
+- **Buku ma asomo ne ber** = The book that I read was good
+- **Ot ma ne oloso ne duong'** = The house that was built was big
+
+---
+
+**Reported Speech (Wach ma Osewach):**
+
+**Direct to Indirect Speech:**
+
+Direct: **En owacho, "Adhi skul"** = He/She said, "I am going to school"
+Indirect: **En owacho ni odhi skul** = He/She said that he/she is going to school
+
+Direct: **Omondi owacho, "Achiemo kuon"** = Omondi said, "I am eating ugali"
+Indirect: **Omondi owacho ni ochiemo kuon** = Omondi said that he is eating ugali
+
+Direct: **Ne owacho, "Abiro biro kiny"** = He/She said, "I will come tomorrow"
+Indirect: **Ne owacho ni obiro biro kinyne** = He/She said that he/she would come the next day
+
+---
+
+**Causative Verbs (Weche ma Miyo Gimoro Timore):**
+
+Formation: Add suffix to make someone do something
+
+Examples:
+- **Chiemo** (to eat) → **Chiembo** (to feed)
+- **Nindo** (to sleep) → **Nindbo** (to put to sleep)
+- **Dhi** (to go) → **Ter** (to send/make go)
+- **Somo** (to read) → **Sombo** (to teach to read)
+
+Usage:
+- **Min chiembo nyathi** = Mother is feeding the child
+- **Wuoro tero Otieno skul** = Father is sending Otieno to school
+- **Japuonj sombo nyithindo** = The teacher is teaching children to read
+
+---
+
+**Reciprocal Actions (Weche ma Ji Timo Kaachiel):**
+
+Formation: Use "gi" or add reciprocal suffix
+
+Examples:
+- **Goyo** (to hit) → **Goyore** (to hit each other)
+- **Konyo** (to help) → **Konyore** (to help each other)
+- **Hera** (to love) → **Herore** (to love each other)
+
+Usage:
+- **Gin goyore** = They are hitting each other
+- **Wan wakonyore** = We help each other
+- **Ji herore** = People love each other
+
+---
+
+**Emphasis and Intensifiers:**
+
+**Using "ahinya" (very/really):**
+- **Ber ahinya** = Very good
+- **Duong' ahinya** = Very big
+- **Tek ahinya** = Very hard
+
+**Using "moloyo" (more than/most):**
+- **Ber moloyo** = Better / Most good
+- **Duong' moloyo** = Bigger / Biggest
+- **Tek moloyo** = Harder / Hardest
+
+**Using "mana" (only/just):**
+- **An mana** = Only me / Just me
+- **Chieng' mana** = Just today
+- **Gimoro mana** = Just something
+
+**Using "kende" (only/alone):**
+- **An kende** = Me alone / Only me
+- **Achiel kende** = Only one
+- **Nyathi kende** = Only the child
+
+---
+
+**Complex Sentence Structures:**
+
+**Multiple Clauses:**
+- **Ka ibiro kendo ka in gi pesa, to wabiro dhi ohala** = If you come and if you have money, then we will go to the market
+
+**Embedded Questions:**
+- **Ok ang'eyo ni en dhi kanye** = I don't know where he/she went
+- **Penja ni en timo ang'o** = Ask him/her what he/she is doing
+
+**Temporal Clauses:**
+- **Kane achiemo, en nobiro** = When I was eating, he/she came
+- **Bang' chiemo, wabiro dhi** = After eating, we will go
+- **Kapok achiemo, ok anyal dhi** = Before I eat, I cannot go
+
+---
+
+**Idiomatic Verb Constructions:**
+
+**"Bedo gi" (to have):**
+- **An bedo gi pesa** = I have money
+- **En bedo gi jamni** = He/She has animals
+
+**"Dwaro" (to want) + infinitive:**
+- **Adwaro dhi** = I want to go
+- **En odwaro chiemo** = He/She wants to eat
+
+**"Nyalo" (can/able) + infinitive:**
+- **Anyalo timo** = I can do
+- **Ok onyalo biro** = He/She cannot come
+
+**"Kare" (should/supposed to):**
+- **Kare adhi** = I should go
+- **Kare otimo** = He/She should do

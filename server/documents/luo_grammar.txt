@@ -1,0 +1,135 @@
+**Luo Grammar and Sentence Structures (Chik mag Dholuo)**
+
+**Basic Sentence Structure:**
+Luo typically follows Subject-Verb-Object (SVO) word order, similar to English.
+
+**Personal Pronouns (Nying Ngato):**
+- **An** = I/Me
+- **In** = You (singular)
+- **En** = He/She/It
+- **Wan** = We/Us
+- **Un** = You (plural)
+- **Gin** = They/Them
+
+**Possessive Pronouns:**
+- **Mara** = My/Mine
+- **Mari** = Your/Yours (singular)
+- **Mare** = His/Her/Its
+- **Marwa** = Our/Ours
+- **Maru** = Your/Yours (plural)
+- **Margi** = Their/Theirs
+
+**Present Tense (Kinde ma Kawuono):**
+To form present tense, use the pronoun + verb:
+- **An adhi** = I go
+- **In idhi** = You go
+- **En odhi** = He/She goes
+- **Wan wadhi** = We go
+- **Un udhi** = You (plural) go
+- **Gin gidhi** = They go
+
+**Past Tense (Kinde Mosekalo):**
+Past tense is formed by adding "ne" before the verb:
+- **An ne adhi** = I went
+- **In ne idhi** = You went
+- **En ne odhi** = He/She went
+- **Wan ne wadhi** = We went
+- **Un ne udhi** = You (plural) went
+- **Gin ne gidhi** = They went
+
+**Future Tense (Kinde Mabiro):**
+Future tense uses "biro" (will) before the verb:
+- **An biro dhi** = I will go
+- **In biro dhi** = You will go
+- **En biro dhi** = He/She will go
+- **Wan biro dhi** = We will go
+- **Un biro dhi** = You (plural) will go
+- **Gin biro dhi** = They will go
+
+**Negative Sentences (Weche Makwero):**
+Negation is formed using "ok" (not):
+- **An ok adhi** = I don't go / I'm not going
+- **In ok idhi** = You don't go
+- **En ok odhi** = He/She doesn't go
+- **An ne ok adhi** = I didn't go
+- **An ok biro dhi** = I will not go
+
+**Question Formation (Goyo Penjo):**
+Questions can be formed by:
+1. Using question words at the beginning:
+   - **Ng'a odhi?** = Who went?
+   - **Ang'o itimo?** = What are you doing?
+   - **Kanye idhi?** = Where are you going?
+
+2. Raising intonation at the end of a statement:
+   - **Idhi skul?** = Are you going to school?
+   - **In ichiemo?** = Are you eating?
+
+**Common Sentence Patterns:**
+
+**"To be" sentences:**
+- **An en japuonj** = I am a teacher
+- **In en ng'a?** = Who are you?
+- **En en dala** = He/She is at home
+
+**"To have" sentences (using "ni" or "nigo"):**
+- **An nigo buku** = I have a book
+- **En nigo dhiang'** = He/She has a cow
+- **Wan nigo gari** = We have a car
+
+**Location sentences (using "ni"):**
+- **An ni dala** = I am at home
+- **Buku ni e mesa** = The book is on the table
+- **Kisumu ni e Nam Lolwe** = Kisumu is at Lake Victoria
+
+**Desire/Want (using "dwaro"):**
+- **An adwaro chiemo** = I want food
+- **En odwaro dhi** = He/She wants to go
+- **Wan wadwaro pi** = We want water
+
+**Ability/Can (using "nyalo"):**
+- **An anyalo wuoyo Dholuo** = I can speak Luo
+- **In inyalo konyo?** = Can you help?
+- **En ok onyalo biro** = He/She cannot come
+
+**Comparison:**
+- **Maduong' moloyo** = Bigger than
+- **Maber moloyo** = Better than
+- **En duong' moloyo an** = He/She is bigger than me
+
+**Conjunctions (Weche Mariwo):**
+- **Gi** = And/With
+- **Kata** = Or
+- **To** = But
+- **Nikech** = Because
+- **Ka** = If/When
+- **Kapok** = Before
+- **Bang'e** = After
+
+**Example Sentences:**
+
+**Simple Sentences:**
+1. **An adhi skul** = I go to school
+2. **En ochiemo kuon** = He/She is eating ugali
+3. **Wan waneno chieng'** = We see the sun
+4. **Gin gidhi ohala** = They are going to the market
+5. **Nyathi nindo** = The child is sleeping
+
+**Complex Sentences:**
+1. **An adhi skul nikech adwaro somo** = I go to school because I want to study
+2. **Ka koth ochue, ok wabiro dhi** = If it rains, we will not go
+3. **En ochiemo kuon gi rech** = He/She is eating ugali and fish
+4. **An ahero Dholuo to ok anyalo wuoyo maber** = I love Luo but I cannot speak well
+5. **Wan ne wadhi dala nyoro** = We went home yesterday
+
+**Polite Requests:**
+1. **Kiyie ikonya?** = Please, can you help me?
+2. **Kiyie imiya pi** = Please give me water
+3. **Kiyie iluonga** = Please call me
+
+**Commands (Chike):**
+1. **Dhi!** = Go!
+2. **Bi!** = Come!
+3. **Chiemo!** = Eat!
+4. **Bed maber!** = Stay well! / Be good!
+5. **Kik itim kamano!** = Don't do that!

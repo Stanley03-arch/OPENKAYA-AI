@@ -1,0 +1,124 @@
+# Luo Multilingual Master Pack
+
+This document strengthens Kaya AI for Luo-first and multilingual conversations.
+
+## Core Luo Identity
+- Dholuo is a Nilotic language spoken mainly in western Kenya and northern Tanzania.
+- "Jaluo" refers to Luo people (singular), and "Jo-Luo" can be used for Luo people (plural/community usage).
+- Common greeting style values respect, clarity, and relational tone.
+
+## High-Frequency Luo Greetings and Responses
+- Misawa? -> Misawa ahinya.
+- Nango? -> Adhi maber.
+- Idhi nade? -> Adhi maber.
+- Oriti? -> Oriti maber.
+- Erokamano -> Erokamano ahinya / Onge gima.
+- Oyaore -> Oyaore ahinya.
+- In nadi? -> An maber.
+- Ber? -> Ber ahinya.
+
+## Daily Conversation Snippets
+- Adwaro kony mar somo. -> I need help with studying.
+- Inyalo puonja Dholuo? -> Can you teach me Luo?
+- Wakwayi, nyisa yo. -> Please, show me the way.
+- An gi penjo achiel. -> I have one question.
+- Ka ineno kamano, inwacho nadi? -> If you see that, how do you say it?
+
+## Functional Luo for AI Assistant
+- "An Kaya AI, anyalo konyi gi penjo mag puonj, teknoloji, biznes, kod ngima mar pile."
+- "Ka idwaro dwoko e lugha machielo, nyisa dhok ma idwaro."
+- "Ka penjo ne ok olarore, anyalo penji penjo mar medore mondo alok dwoko."
+
+## Luo Learning Mini Grammar
+- Pronouns:
+  - an = I
+  - in = you
+  - en = he/she/it
+  - wan = we
+  - un = you (plural)
+  - gin = they
+- Useful particles:
+  - ka = if/when
+  - to = but/then
+  - nikech = because
+  - mondo = so that
+  - kata = or
+- Negation patterns:
+  - ok + verb
+  - examples: ok anyal, ok awinjo, ok adwaro
+
+## Luo Domain Vocabulary (Modern)
+- komputer = computer
+- intanet = internet
+- data = data
+- teknoloji = technology
+- simu = phone
+- aplikasyon = application
+- website = website
+- AI = AI / rieko ma nyiso
+- report = ripot
+- meeting = miting
+
+## Luo for School and Learning
+- somo = study/read
+- puonj = teaching/lesson
+- puonjruok = education
+- buk = book
+- sual = school
+- penjo = question
+- dwoko = answer
+- ng'eyo = know
+- rieko = knowledge/intelligence
+
+## Luo for Business and Work
+- tich = work
+- pesa = money
+- chudo = payment
+- nywako biashara = start business
+- gir tich = tools
+- jang'ado tich = manager/organizer
+- kony = help/support
+
+## English to Luo Quick Phrases
+- Hello -> Misawa
+- Thank you -> Erokamano
+- Please -> Wakwayi
+- How are you? -> Idhi nade?
+- I am fine -> Adhi maber
+- What is your name? -> Nyingi ng'a?
+- My name is ... -> Nyinga en ...
+- Can you help me? -> Inyalo konya?
+- I don't understand -> Ok awinjo
+- See you later -> Wanere bang'e
+
+## Swahili to Luo Quick Phrases
+- Habari? -> Misawa?
+- Asante -> Erokamano
+- Tafadhali -> Wakwayi
+- Nisaidie -> Konya
+- Sawa -> Ber
+- Kesho -> Kiny
+- Leo -> Kawuono
+- Jana -> Nyoro
+
+## Multilingual Policy Notes for Assistant
+- If user speaks Luo, answer in Luo unless asked otherwise.
+- If user asks translation, provide both Luo and the requested target language.
+- If user uses mixed Luo+English, preserve Luo tone and clarify technical terms in English where useful.
+- Keep explanations simple first, then add detail if requested.
+
+## Extra Luo Q&A Seeds
+Q: Inyalo puonja Luo kuom step-by-step?
+A: Ee. Anyalo chako gi greetings, penjo moting'o, to wabiro dhi nyime gi grammar kod vocabulary pile ka pile.
+
+Q: Ka adwaro yudo tich mar teknoloji, atim nade?
+A: Chak gi somo mar msingi e komputer, coding, kod internet safety. To ket portfolio, tim project matin matin, kendo penj jomoko ma en gi tich e sektoru.
+
+Q: Inyalo loko weche ma togo e English?
+A: Ee, anyalo. Chak ka ichiwo paragraph to anyalo loko e English kata e Luo kaka idwaro.
+
+Q: Nitie yo mar puonjruok ma tek matin?
+A: Ee. Pangwa saa matin pile, tim revision, kendo yud osiep mar somo mondo ukonyruok.
+
+Q: Inyalo konyo gi website?
+A: Ee. Anyalo chweyo website, miyo HTML/CSS/JS, kendo nyisi kido mar mobile-friendly design.

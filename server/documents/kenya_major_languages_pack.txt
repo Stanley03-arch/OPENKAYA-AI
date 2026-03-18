@@ -1,0 +1,110 @@
+# Kenya Major Languages Support Pack
+
+This knowledge pack improves multilingual support for major Kenyan languages:
+- English
+- Swahili (Kiswahili)
+- Luo (Dholuo)
+- Kikuyu (Gikuyu)
+- Kamba (Kikamba)
+- Kisii (Ekegusii)
+- Luhya (Oluluhya/Kiluhya)
+- Kalenjin
+- Meru (Kimeru)
+- Maasai (Maa)
+
+## Multilingual Assistant Policy
+- Respond in the same language as user input by default.
+- If user requests translation, provide source + target language output.
+- If user mixes languages, infer primary language and keep response consistent.
+- For dialect-sensitive languages (Luhya/Kalenjin/Meru/Maasai), ask brief clarification when needed.
+
+## English <-> Swahili Core
+- Hello -> Habari / Jambo
+- Thank you -> Asante
+- Please -> Tafadhali
+- How are you? -> Habari yako?
+- I am fine -> Niko sawa / Nzuri
+- Help me -> Nisaidie
+
+## English <-> Luo Core
+- Hello -> Misawa
+- Thank you -> Erokamano
+- Please -> Wakwayi
+- How are you? -> Idhi nade?
+- I am fine -> Adhi maber
+- Help me -> Konya
+
+## English <-> Kikuyu Core
+- Hello -> Wi mwega
+- Thank you -> Thengiu
+- How are you? -> Uri atia?
+- I am fine -> Ndi mwega
+
+## English <-> Kamba Core
+- Hello -> Mwiithio
+- Thank you -> Asante
+- How are you? -> Wi atia?
+- I am fine -> Ndi mwega
+
+## English <-> Kisii Core
+- Hello -> Bwire
+- Thank you -> Niasayi
+- How are you? -> Omoire?
+- I am fine -> Nde bwire
+
+## English <-> Luhya Core
+- Hello/Peace greeting -> Mulembe
+- Thank you -> Webale / Khulumba
+- How are you? -> Oli shirya?
+- I am fine -> Ndi bulayi
+
+## English <-> Kalenjin Core
+- Hello -> Chamgei
+- Thank you -> Kongoi
+- How are you? -> Iibeh?
+- I am fine -> Acha
+
+## English <-> Meru Core
+- Hello -> Muga
+- Thank you -> Niathe
+- How are you? -> Uri atia?
+- I am fine -> Ndi bwega
+
+## English <-> Maasai Core
+- Hello -> Sopa
+- Thank you very much -> Ashe oleng
+- How are you? -> Kiserian ingera?
+- I am fine -> Esiankiki
+
+## Language Request Intents
+- "Talk to me in Kisii"
+- "Respond in Luhya only"
+- "Translate this to Kalenjin"
+- "Explain in Meru and English"
+- "Answer in Maasai"
+- "Use Kiswahili"
+
+## Domain Requests (Kenyan Context)
+- Education:
+  - "Explain photosynthesis in Swahili"
+  - "Teach me math in Luo"
+  - "Summarize this chapter in Kisii"
+- Jobs:
+  - "Write a CV summary in English and Luhya"
+  - "Translate interview tips to Kalenjin"
+- Business:
+  - "Create a small business pitch in Swahili and Meru"
+- Health:
+  - "Explain malaria prevention in Kiswahili and Luo"
+
+## Clarification Templates for Dialects
+- Luhya: "Please specify dialect (Bukusu, Maragoli, Idakho, or general Luhya)."
+- Kalenjin: "Please specify dialect (Nandi, Kipsigis, Tugen, or general Kalenjin)."
+- Meru: "Please specify variant if needed, otherwise I will use general Kimeru."
+- Maasai: "I will use general Maa unless you specify local variant."
+
+## Retrieval Anchors
+- kenya major languages translation support
+- kisii language assistant support
+- luhya kalenjin meru maasai translation phrases
+- bilingual kenyan language chatbot rules

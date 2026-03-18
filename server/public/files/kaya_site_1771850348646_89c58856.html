@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jumia Clone</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            padding: 1em;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline-block;
+            margin-right: 20px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+        }
+        main {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 2em;
+        }
+        .producto {
+            background-color: #f7f7f7;
+            border: 1px solid #ddd;
+            margin: 10px;
+            padding: 10px;
+            width: calc(33.33% - 20px);
+        }
+        .producto img {
+            width: 100%;
+        }
+        .producto h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .producto p {
+            margin-bottom: 20px;
+        }
+        .producto button {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        @media only screen and (max-width: 768px) {
+            .producto {
+                width: calc(50% - 20px);
+            }
+        }
+        @media only screen and (max-width: 480px) {
+            .producto {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jumia Clone</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Electrónicos</a></li>
+            <li><a href="#">Ropa y accesorios</a></li>
+            <li><a href="#">Hogar y cocina</a></li>
+            <li><a href="#">Deportes y ocio</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div class="producto">
+            <img src="https://via.placeholder.com/200x150" alt="Producto 1">
+            <h2>Producto 1</h2>
+            <p>Este es un producto genérico</p>
+            <button>Comprar</button>
+        </div>
+        <div class="producto">
+            <img src="https://via.placeholder.com/200x150" alt="Producto 2">
+            <h2>Producto 2</h2>
+            <p>Este es otro producto genérico</p>
+            <button>Comprar</button>
+        </div>
+        <div class="producto">
+            <img src="https://via.placeholder.com/200x150" alt="Producto 3">
+            <h2>Producto 3</h2>
+            <p>Este es un producto más genérico</p>
+            <button>Comprar</button>
+        </div>
+    </main>
+    <script>
+        // Script para agregar funcionalidad a los botones de compra
+        const botones = document.querySelectorAll('.producto button');
+        botones.forEach(boton => {
+            boton.addEventListener('click', () => {
+                alert('Comprado!');
+            });
+        });
+    </script>
+</body>
+</html>
