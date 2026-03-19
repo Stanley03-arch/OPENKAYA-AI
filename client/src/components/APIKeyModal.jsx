@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { X, Copy, Check, Terminal, Shield } from 'lucide-react';
 import toast from 'react-hot-toast';
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = import.meta.env.DEV ? 'http://localhost:3001' : '';
 
 const APIKeyModal = ({ onClose }) => {
     const [apiKey, setApiKey] = useState('');

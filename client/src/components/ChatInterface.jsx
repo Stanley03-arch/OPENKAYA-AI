@@ -8,7 +8,7 @@ import TypingIndicator from './TypingIndicator';
 import APIKeyModal from './APIKeyModal';
 
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = import.meta.env.DEV ? 'http://localhost:3001' : '';
 
 const ChatInterface = () => {
     const { logout } = useAuth();
