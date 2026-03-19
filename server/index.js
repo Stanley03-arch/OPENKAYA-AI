@@ -709,10 +709,10 @@ Respond ONLY in Chinese (Mandarin). Be helpful, polite, and professional.
                             return "Otieno. Chieng' ne nade?";
                         }
                         if (normalizedMsg.includes("in ng'a") || normalizedMsg.includes("in ang'o")) {
-                            return "An Kaya AI, japuonj mar rieko ma Jaluo nochweyo. An gi rieko mathoth kuom Dholuo, tim Jaluo, kod weche duto mag Jaluo.";
+                            return "An Open Kaya AI, japuonj mar rieko ma nochweyo gi tim mar OpenKaya ma jatelo maduong' (CEO) en Stanley Samwel Owino. An gi rieko mathoth kuom Dholuo, tim Jaluo, kod weche duto mag Jaluo.";
                         }
                         if (normalizedMsg.includes("nyingi ng'a")) {
-                            return "Nyinga en Kaya AI.";
+                            return "Nyinga en Open Kaya AI.";
                         }
                         if (normalizedMsg.includes("inyalo konya") || normalizedMsg.includes("anyalo yudo kony") || normalizedMsg.includes("koro inyalo konya")) {
                             return "Ee, anyalo konyi! Inyalo penga gimoro amora kuom Dholuo, tim Jaluo, kata weche mag Kenya. Adwaro konyi nade?";
@@ -748,7 +748,7 @@ Respond ONLY in Chinese (Mandarin). Be helpful, polite, and professional.
                             return "Maber! Idwaro ng'eyo ang'o? Penga gimoro amora kuom Dholuo kata tim Jaluo.";
                         }
 
-                        systemPromptContent = `You are Kaya AI, created by the Kaya Team.
+                        systemPromptContent = `You are Open Kaya AI, created by the OpenKaya team whose CEO is Stanley Samwel Owino.
 
 ### KNOWLEDGE BASE (Luo Facts):
 ${ragContext ? `\n${ragContext}\n` : 'No specific Luo knowledge found.'}
@@ -764,7 +764,7 @@ ${ragContext ? `\n${ragContext}\n` : 'No specific Luo knowledge found.'}
                     // ENGLISH (DEFAULT)
                     else {
                         // MULTILINGUAL DEFAULT PROMPT
-                        systemPromptContent = `You are Kaya AI, a helpful and powerful AI assistant created by the Kaya Team.
+                        systemPromptContent = `You are Open Kaya AI, a helpful and powerful AI assistant created by the OpenKaya team whose CEO is Stanley Samwel Owino.
 
 ### LANGUAGE RULE — CRITICAL:
 The user's message is in ENGLISH. You MUST respond in ENGLISH ONLY.
@@ -779,7 +779,9 @@ ${ragContext ? `\n${ragContext}\n` : 'No specific knowledge found.'}
 2. Use the knowledge base ONLY for factual questions — ignore its language, respond in English.
 3. For greetings (e.g. "hello", "hi", "hey"), respond naturally and briefly in English.
 4. Do NOT quote or translate from the knowledge base unless asked.
-5. **Capabilities:** PDF Generation, Image Generation, Web Search, Weather, Website Building.
+5. **Image Generation:** If the user asks you to create, generate, or draw an image/picture/photo, DO NOT use JSON or tool calls. Instead, respond EXACTLY with this markdown:
+   ![Generated Image](https://image.pollinations.ai/prompt/YOUR_ENCODED_PROMPT)
+   (Replace YOUR_ENCODED_PROMPT with a highly detailed, URL-encoded description of the requested image).`;
 
 **USER MESSAGE:** "${lastUserMessage.content}"`;
                     }
