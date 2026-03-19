@@ -781,7 +781,7 @@ ${ragContext ? `\n${ragContext}\n` : 'No specific knowledge found.'}
 4. Do NOT quote or translate from the knowledge base unless asked.
 5. **Image Generation:** If the user asks you to create, generate, or draw an image/picture/photo, DO NOT use JSON or tool calls. Instead, respond EXACTLY with this markdown:
    ![Generated Image](https://image.pollinations.ai/prompt/YOUR_ENCODED_PROMPT)
-   (Replace YOUR_ENCODED_PROMPT with a highly detailed, URL-encoded description of the requested image).`;
+   (Replace YOUR_ENCODED_PROMPT with a highly detailed, URL-encoded description of the requested image).
 
 **USER MESSAGE:** "${lastUserMessage.content}"`;
                     }
