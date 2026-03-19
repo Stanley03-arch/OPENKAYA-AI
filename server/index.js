@@ -930,8 +930,25 @@ Generate structured markdown that can be directly converted to a professional PD
 
         const imagePrompt = extractImagePrompt(response);
         if (imagePrompt) {
-            const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(imagePrompt)}`;
+            const encodedPrompt = encodeURIComponent(imagePrompt);
+            const pollinationsUrl = `https://image.pollinations.ai/prompt/${encodedPrompt}`;
             const cleanResponse = response.replace(/<kaya_image>[\s\S]*?<\/kaya_image>/i, '').trim();
+
+            let finalImageUrl = pollinationsUrl;
+
+            try {
+                // Download the image locally to bypass browser ad-blockers and CORS
+                const imageResponse = await axios.get(pollinationsUrl, { responseType: 'arraybuffer' });
+                const imageFilename = `kaya_img_${Date.now()}_${uuidv4().slice(0, 8)}.jpg`;
+                const imagePath = path.join(generatedFilesDir, imageFilename);
+                fs.writeFileSync(imagePath, imageResponse.data);
+
+                // Use a relative path so it perfectly works on any domain/host (Railway or Localhost)
+                finalImageUrl = `/files/${imageFilename}`;
+            } catch (downloadErr) {
+                console.error('Failed to proxy generated image locally:', downloadErr.message);
+                // Fallback to the direct pollinations URL if download fails for some reason
+            }
 
             try {
                 const userMsgId = uuidv4();
@@ -947,7 +964,7 @@ Generate structured markdown that can be directly converted to a professional PD
 
             return res.json({
                 reply: cleanResponse || "Here is your generated image:",
-                imageUrl,
+                imageUrl: finalImageUrl,
                 isImageGeneration: true
             });
         }
@@ -961,7 +978,7 @@ Generate structured markdown that can be directly converted to a professional PD
                 await pdfGen.addMarkdown(response);
                 await pdfGen.save(pdfPath);
 
-                const pdfUrl = `http://localhost:${PORT}/files/${pdfFilename}`;
+                const pdfUrl = `/files/${pdfFilename}`;
                 return res.json({
                     reply: `${response}\n\n📄 **[Download PDF](${pdfUrl})**`,
                     pdfUrl,
@@ -985,7 +1002,7 @@ Generate structured markdown that can be directly converted to a professional PD
                 const websitePath = path.join(generatedFilesDir, websiteFilename);
                 fs.writeFileSync(websitePath, finalHtml, 'utf8');
 
-                const previewUrl = `http://localhost:${PORT}/files/${websiteFilename}`;
+                const previewUrl = `/files/${websiteFilename}`;
                 return res.json({
                     reply: `${response}\n\n[Open Website Preview](${previewUrl})`,
                     previewUrl,
