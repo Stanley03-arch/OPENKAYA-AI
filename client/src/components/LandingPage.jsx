@@ -58,8 +58,8 @@ const LandingPage = () => {
             }}>
                 {/* Logo */}
                 <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    <span style={{ fontSize: '24px' }}>🤖</span>
-                    <span style={{ fontSize: '18px', fontWeight: '600' }}>Kaya</span>
+                    <img src="/kaya-logo.png" alt="Open Kaya Logo" style={{ width: '32px', height: '32px', borderRadius: '50%', objectFit: 'cover' }} />
+                    <span style={{ fontSize: '18px', fontWeight: '600' }}>OPEN KAYA AI</span>
                 </div>
 
                 {/* Navigation */}
