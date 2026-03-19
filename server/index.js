@@ -453,22 +453,27 @@ app.post('/api/chat', async (req, res) => {
                     ];
 
                     // Detect Language
-                    // Use normalized checking to handle accents (e.g. wĩ mwega vs wi mwega)
-                    const isLuo = luoKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isFrench = frenchKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isKikuyu = kikuyuKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isKamba = kambaKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isSpanish = spanishKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
+                    // Use normalized checking to handle accents and exact word boundaries to prevent bugs like "si" in "website"
+                    const isMatch = (keywords, text) => keywords.some(k => {
+                        const escaped = normalizeText(k).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                        return new RegExp(`\\b${escaped}\\b`, 'i').test(text);
+                    });
+
+                    const isLuo = isMatch(luoKeywords, normalizedMsg);
+                    const isFrench = isMatch(frenchKeywords, normalizedMsg);
+                    const isKikuyu = isMatch(kikuyuKeywords, normalizedMsg);
+                    const isKamba = isMatch(kambaKeywords, normalizedMsg);
+                    const isSpanish = isMatch(spanishKeywords, normalizedMsg);
                     const hasArabicScript = /[\u0600-\u06ff]/.test(lastUserMessage.content);
                     const hasChineseScript = /[\u4e00-\u9fff]/.test(lastUserMessage.content);
-                    const isArabic = hasArabicScript || arabicKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isChinese = hasChineseScript || chineseKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isSwahili = swahiliKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isKisii = kisiiKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isLuhya = luhyaKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isKalenjin = kalenjinKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isMeru = meruKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
-                    const isMaasai = maasaiKeywords.some(k => normalizedMsg.includes(normalizeText(k)));
+                    const isArabic = hasArabicScript || isMatch(arabicKeywords, normalizedMsg);
+                    const isChinese = hasChineseScript || isMatch(chineseKeywords, normalizedMsg);
+                    const isSwahili = isMatch(swahiliKeywords, normalizedMsg);
+                    const isKisii = isMatch(kisiiKeywords, normalizedMsg);
+                    const isLuhya = isMatch(luhyaKeywords, normalizedMsg);
+                    const isKalenjin = isMatch(kalenjinKeywords, normalizedMsg);
+                    const isMeru = isMatch(meruKeywords, normalizedMsg);
+                    const isMaasai = isMatch(maasaiKeywords, normalizedMsg);
 
                     let systemPromptContent = "";
 
