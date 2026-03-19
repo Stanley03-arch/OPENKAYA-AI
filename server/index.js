@@ -17,6 +17,7 @@ const { initDB } = require('./db');
 // Load environment variables
 dotenv.config();
 
+const { search } = require('duck-duck-scrape');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
@@ -140,6 +141,17 @@ const isPdfGenerationRequest = (text = '') => {
         || normalized.includes('pdf report')
         || normalized.includes('pdf document')
         || normalized.includes('download pdf');
+};
+
+const isWebSearchRequest = (text = '') => {
+    const normalized = text.toLowerCase();
+    return /(search the web|search internet|look up online|latest news|who is the current|what is the price of|current events|search for|what happened today)/i.test(normalized);
+};
+
+const extractImagePrompt = (responseText = '') => {
+    if (!responseText) return null;
+    const match = responseText.match(/<kaya_image>([\s\S]*?)<\/kaya_image>/i);
+    return match ? match[1].trim() : null;
 };
 
 const extractHtmlFromResponse = (responseText = '') => {
@@ -295,7 +307,21 @@ app.post('/api/chat', async (req, res) => {
         const isLikelyKenyanLanguageQuery = kenyaLanguageKeywords.some((k) => normalizedMsg.includes(k));
 
         // Normal chat flow with multi-provider fallback
-        const ragContext = await retrieveContext(lastUserMessage.content, (isLikelyLuoQuery || isLikelyKenyanLanguageQuery) ? 8 : 4);
+        let ragContext = await retrieveContext(lastUserMessage.content, (isLikelyLuoQuery || isLikelyKenyanLanguageQuery) ? 8 : 4);
+
+        const wantsWebSearch = isWebSearchRequest(lastUserMessage.content);
+        if (wantsWebSearch) {
+            try {
+                console.log(`🔍 Web search triggered for: ${lastUserMessage.content}`);
+                const searchResults = await search(lastUserMessage.content);
+                if (searchResults && searchResults.results && searchResults.results.length > 0) {
+                    const topResults = searchResults.results.slice(0, 3).map(r => `- ${r.title}: ${r.description} (Source: ${r.url})`).join('\n');
+                    ragContext = `${ragContext}\n\n### LATEST WEB SEARCH RESULTS:\n${topResults}\n`;
+                }
+            } catch (err) {
+                console.error("Web search failed:", err.message);
+            }
+        }
 
         // GLOBAL PROVIDER ROTATION (Load Balancing)
         // Rotate the starting provider to distribute load across all keys (Groq + OpenRouter + Gemini)
@@ -779,9 +805,8 @@ ${ragContext ? `\n${ragContext}\n` : 'No specific knowledge found.'}
 2. Use the knowledge base ONLY for factual questions — ignore its language, respond in English.
 3. For greetings (e.g. "hello", "hi", "hey"), respond naturally and briefly in English.
 4. Do NOT quote or translate from the knowledge base unless asked.
-5. **Image Generation:** If the user asks you to create, generate, or draw an image/picture/photo, DO NOT use JSON or tool calls. Instead, respond EXACTLY with this markdown:
-   ![Generated Image](https://image.pollinations.ai/prompt/YOUR_ENCODED_PROMPT)
-   (Replace YOUR_ENCODED_PROMPT with a highly detailed, URL-encoded description of the requested image).
+5. **Image Generation:** If the user asks you to create, generate, or draw an image/picture/photo, DO NOT use JSON or markdown images. Instead, respond EXACTLY with this tag:
+   <kaya_image>A highly detailed visual description of the requested image in English</kaya_image>
 
 **USER MESSAGE:** "${lastUserMessage.content}"`;
                     }
@@ -896,6 +921,30 @@ Generate structured markdown that can be directly converted to a professional PD
 
         if (!response) {
             throw lastError || new Error('All providers failed');
+        }
+
+        const imagePrompt = extractImagePrompt(response);
+        if (imagePrompt) {
+            const imageUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(imagePrompt)}`;
+            const cleanResponse = response.replace(/<kaya_image>[\s\S]*?<\/kaya_image>/i, '').trim();
+
+            try {
+                const userMsgId = uuidv4();
+                const assistantMsgId = uuidv4();
+                
+                await db.run('INSERT INTO chats (id, user_id, role, content) VALUES (?, ?, ?, ?)', 
+                    [userMsgId, defaultUserId, 'user', lastUserMessage.content]);
+                await db.run('INSERT INTO chats (id, user_id, role, content) VALUES (?, ?, ?, ?)', 
+                    [assistantMsgId, defaultUserId, 'assistant', cleanResponse || "Here is your generated image:"]);
+            } catch (dbError) {
+                console.error('Failed to log image chat to DB:', dbError.message);
+            }
+
+            return res.json({
+                reply: cleanResponse || "Here is your generated image:",
+                imageUrl,
+                isImageGeneration: true
+            });
         }
 
         if (wantsPdfGeneration) {
