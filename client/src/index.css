@@ -1,17 +1,29 @@
-:root {
-  --bg-primary: #0a0a0a;
-  --bg-secondary: #1a1a1a;
-  --bg-tertiary: #2a2a2a;
-  --text-primary: #ffffff;
-  --text-secondary: #a0a0a0;
-  --accent-purple: #667eea;
-  --accent-pink: #f093fb;
-  --accent-cyan: #4facfe;
-  --accent-green: #43e97b;
-  --accent-violet: #764ba2;
-  --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
-  --border-color: #333;
+@import "tailwindcss";
+
+@theme {
+  --color-kaya-teal: #00D4AA;
+  --color-kaya-purple: #8B5CF6;
+  --color-kaya-amber: #F59E0B;
+  --color-kaya-dark: #0D0F14;
+  --color-kaya-card: #1A1D24;
+
+  --font-sans: 'Inter', 'Geist', sans-serif;
+  --font-display: 'Inter', 'Geist', sans-serif;
+  
+  --animate-typing: bounce 1.4s infinite ease-in-out both;
 }
+
+@layer base {
+  :root {
+    --bg-primary: #0D0F14;
+    --bg-secondary: #0D0F14;
+    --bg-tertiary: #1A1D24;
+    --text-primary: #ffffff;
+    --text-secondary: #a0a0a0;
+    --border-color: #333;
+  }
+}
+
 
 body {
   margin: 0;
