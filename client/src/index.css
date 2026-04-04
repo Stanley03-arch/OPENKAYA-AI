@@ -1,26 +1,21 @@
-@import "tailwindcss";
-
-@theme {
-  --color-kaya-teal: #00D4AA;
-  --color-kaya-purple: #8B5CF6;
-  --color-kaya-amber: #F59E0B;
-  --color-kaya-dark: #0D0F14;
-  --color-kaya-card: #1A1D24;
-
-  --font-sans: 'Inter', 'Geist', sans-serif;
-  --font-display: 'Inter', 'Geist', sans-serif;
-  
-  --animate-typing: bounce 1.4s infinite ease-in-out both;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @layer base {
   :root {
     --bg-primary: #0D0F14;
-    --bg-secondary: #0D0F14;
-    --bg-tertiary: #1A1D24;
+    --bg-secondary: #1A1D24;
+    --bg-tertiary: #11141D;
     --text-primary: #ffffff;
     --text-secondary: #a0a0a0;
     --border-color: #333;
+    
+    /* Mirroring Kaya theme colors for CSS variable access if needed */
+    --kaya-teal: #00D4AA;
+    --kaya-purple: #8B5CF6;
+    --kaya-dark: #0D0F14;
+    --kaya-card: #1A1D24;
   }
 }
 
