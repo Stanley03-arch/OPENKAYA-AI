@@ -887,7 +887,7 @@ Generate structured markdown that can be directly converted to a professional PD
                             geminiMessages[0].parts[0].text = `${systemPrompt.content}\n\n${geminiMessages[0].parts[0].text}`;
                         }
 
-                        const result = await axios.post(`https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=${apiKey}`, {
+                        const result = await axios.post(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`, {
                             contents: geminiMessages
                         });
                         return result.data.candidates[0].content.parts[0].text;
